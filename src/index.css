@@ -20,7 +20,8 @@ html,body{
     border-radius: 5px 5px 5px 5px;
     margin-top:15px;
     padding:10px;
-    font-size: 19px;
+    font-size: 19px; 
+    color: #003d8a;
 }
 
 .bubble{
