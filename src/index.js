@@ -4,7 +4,7 @@ document.querySelector('#input-area').addEventListener('keyup',function(event){
     if(event.keyCode == 13){
         addToChatBox(this.value,'Human');
         this.value = "";
-        addToChatBox("Fuck you",'Bot');
+        addToChatBox("Hello",'Bot');
         
     }
 });
