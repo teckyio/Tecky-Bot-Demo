@@ -1,6 +1,6 @@
 
 
-export function botAnswers(sentences){
+function botAnswers(sentences){
     const words = window.nlp(sentences);
     console.log(words.people().data().length);
     if(words.match('hello').found|| words.match('hi').found){

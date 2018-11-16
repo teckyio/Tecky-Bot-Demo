@@ -1,5 +1,3 @@
-import { botAnswers } from './bot.js';
-
 
 document.querySelector('#input-area').addEventListener('keyup',function(event){
     if(event.keyCode == 13){
