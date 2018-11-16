@@ -1,0 +1,9 @@
+{
+  "name": "Tecky-Academy-2018-11-17",
+  "version": "1.0.0",
+  "description": "Examples for Tecky workshop on 2018-11-17",
+  "main": "index.js",
+  "repository": "git@github.com:teckyio/Tecky-Academy-2018-11-17.git",
+  "author": "dev@tecky.io",
+  "license": "None"
+}
