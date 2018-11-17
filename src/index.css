@@ -28,6 +28,7 @@ html,body{
     width: 33%;
     display: inline-block;
     color: white;
+    background-color: grey;
     font-size: 19px;
     padding: 8px;    
 }
